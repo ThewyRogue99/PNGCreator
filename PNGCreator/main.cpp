@@ -17,7 +17,7 @@ int main()
 	}
 
 
-	image.SaveFile("C:\\Users\\batuh\\Desktop\\Selam.png");
+	image.SaveFile("Your file directory");
 
 	image.Dispose();
 	return 0;
